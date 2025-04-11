@@ -1,0 +1,22 @@
+Unity Version: 2022.3 LTS (for stability and VR support)
+Build Settings:
+- Android (Google Play Store)
+- iOS (App Store)
+- Meta Quest Platform
+- Smart TV platforms
+
+Required SDKs:
+- Oculus Integration SDK
+- Google VR SDK
+- Firebase SDK
+- Universal Render Pipeline (URP)
+
+Player Settings:
+- Company Name: StonepunkGames
+- Product Name: Stonepunk Brawl
+- Package Name: com.stonepunkgames.brawl
+- Scripting Backend: IL2CPP
+- Target Architectures: ARM64, ARM7
+- XR Plugin Management: Enabled
+- Minimum API Level: Android 7.0
+- Target API Level: Latest
